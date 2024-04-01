@@ -1,0 +1,4 @@
+__pycache__
+/test
+/train
+trained_model_config_backup.json
