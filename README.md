@@ -12,7 +12,7 @@ This project is created to introduce the basics of neural networks. It demonstra
 The training process of the neural network is demonstrated in the `NumbersModelTrainer.py` class. The network was trained using the dataset from [pjreddie's mnist-csv-png](https://github.com/pjreddie/mnist-csv-png).
 
 ## Testing the Neural Network
-You can test the performance of the neural network yourself by downloading the dataset from the provided source or by extracting the archives in the repository and executing the script in the `run.py` file, after uncommenting the necessary part of the code. (don't forget to specify the correct path to the datasets in the script)
+You can test the performance of the neural network yourself by downloading the dataset from the provided source or by extracting the archives in the repository (use git lfs pull) and executing the script in the `run.py` file, after uncommenting the necessary part of the code. (don't forget to specify the correct path to the datasets in the script)
 
 The repository also contains the config of the neural network, which showed more than 90% accuracy on both the training and test datasets. Achieving such a result took a very long time on my hardware, but I hope it will be sufficient to verify the functionality of the neural network.
 
